@@ -27,7 +27,7 @@ Prima di iniziare, scarica da Google Font il typefaces: [Titillium](https://font
 
 Vuoi segnalare un bug o fare una richiesta?
 
-Dai un'occhiata a come [creare una issue](https://github.com/italia/design-wireframe-kit/blob/development/CONTRIBUTING.md). Se invece vuoi discutere delle scelte fatte o qualcosa non ti è chiaro, puoi venire a parlarne su [Slack](https://designersitalia.slack.com/messages/C7658JRJR/) o sul [Forum](https://forum.italia.it/) di Designers Italia.
+Dai un'occhiata a come [creare una issue](https://github.com/italia/design-scuole-prototipi/blob/master/CONTRIBUTING.md). Se invece vuoi discutere delle scelte fatte o qualcosa non ti è chiaro, puoi venire a parlarne su [Slack](https://designersitalia.slack.com/messages/C7658JRJR/) o sul [Forum](https://forum.italia.it/) di Designers Italia.
 
 ## :sparkles: Come contribuire
 Vorresti contribuire ai prototipi? **Sei nel posto giusto!**
