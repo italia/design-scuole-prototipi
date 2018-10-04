@@ -21,7 +21,7 @@ Questo repository contiene i prototipi a media e alta definizione realizzati nel
 ## :ledger: Come iniziare
 Il prototipi sono realizzati in Sketch. Se non lo hai già, puoi scaricare il software Sketch e assicurarti di avere sempre la versione più aggiornata per aprire correttamente il file.
 
-Prima di iniziare, scarica da Google Font il typefaces: [Titillium](https://fonts.google.com/specimen/Titillium+Web)
+Prima di iniziare, scarica da Google Font i typefaces: [Titillium](https://fonts.google.com/specimen/Titillium+Web) e [Lora](https://fonts.google.com/specimen/Lora)
 
 ## :wrench: Segnalazione bug e richieste di aiuto
 
