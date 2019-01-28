@@ -3,8 +3,6 @@
 
 
 # Prototipi di siti web delle scuole
-
- <img src="https://github.com/italia/design-scuole-prototipi/blob/master/images/Artboard.png" width="800"> 
       
 Il [progetto siti web delle scuole](https://siti-web-scuole.readthedocs.io/it/latest/index.html) vuole definire un modello standard di sito web che esprima l’insieme dei servizi digitali offerti dalle scuole italiane a genitori, studenti e all’intera comunità scolastica.
 
