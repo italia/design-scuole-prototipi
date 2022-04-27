@@ -4,7 +4,7 @@
 
 # Prototipi di siti web delle scuole
       
-Il [progetto siti web delle scuole](https://siti-web-scuole.readthedocs.io/it/latest/index.html) vuole definire un modello standard di sito web che esprima l’insieme dei servizi digitali offerti dalle scuole italiane a genitori, studenti e all’intera comunità scolastica.
+Il [progetto siti web delle scuole](https://docs.italia.it/italia/designers-italia/design-scuole-docs/) vuole definire un modello standard di sito web che esprima l’insieme dei servizi digitali offerti dalle scuole italiane a genitori, studenti e all’intera comunità scolastica.
 
 Questo repository contiene i prototipi a media e alta definizione realizzati nel corso del progetto. 
 
