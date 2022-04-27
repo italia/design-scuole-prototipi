@@ -9,11 +9,11 @@ Se vuoi contribuire al progetto, prima di creare o modificare dei file, racconta
 
 L'[issue tracker](https://github.com/italia/design-wireframe-kit/issues) è una sezione del repository a cui si accede dal tab menu. 
 
-   <img src="https://github.com/italia/design-scuole-prototipi/blob/development/images/issue.jpg" width="520"> 
+   <img src="https://github.com/italia/design-scuole-prototipi/blob/master/images/issue.jpg" width="520"> 
   
   Creare una issue è come scrivere una mail: clicca su *new issue* e si aprirà un editor di testo.  
   
-   <img src="https://github.com/italia/design-scuole-prototipi/blob/development/images/create-issue.png" width="520">
+   <img src="https://github.com/italia/design-scuole-prototipi/blob/master/images/create-issue.png" width="520">
   
 ## Codice di condotta
 
